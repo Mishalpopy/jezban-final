@@ -1,0 +1,52 @@
+{
+    "testimonialData":[
+        {
+            "id": 1,
+            "title": "What our Client say",
+            "text1" : " Our home was once overrun by pests, but thanks to Jezben team, we now enjoy a pest-free environment. Their professional team swiftly and effectively handled the issue. Highly recommended for a pest-free peace of mind!",
+            
+            "img" : "/assets/img/bg/testimonial.jpg"
+
+        },
+        {
+            "id": 2,
+            "title": "What our Client say",
+            "text1" : " While they effectively tackled our pest problem, it's worth noting that the service comes with a slightly higher price tag. However, the old saying 'you get what you pay for' couldn't be more accurate. The quality and thoroughness of their work justified the cost, making it a worthwhile investment in the long run. Our home is now not just pest-free but also protected for the future. Quality sometimes comes with a price, and in this case, it's a price we're willing to pay for peace of mind",
+           
+            "img" : "/assets/img/bg/testimonial.jpg"
+
+
+        },
+        {
+            "id": 3,
+            "title": "What our Client say",
+            "text1" : " The professionalism of the Jezben Pest Control team truly stood out. From the initial assessment to the meticulous treatment, every step was executed with precision and care. Courteous, knowledgeable, and efficient, the team ensured not only the elimination of pests but also left us with valuable insights for future prevention. A top-notch service with a genuinely professional touch – highly recommended!",
+            
+            "img" : "/assets/img/bg/testimonial.jpg"
+        },
+
+        {
+            "id": 4,
+            "title": "What our Client say",
+            "text1" : " Kudos to the JEZBEN team for their exceptional punctuality! They didn't just promise a specific time; they delivered, right on the dot. In a world where time is of the essence, their commitment to punctuality is a refreshing standout. Our scheduled appointment was honored with precision, reflecting the team's respect for our time. A reliable service that understands the importance of being on time – impressive!",
+            
+            "img" : "/assets/img/bg/testimonial.jpg"
+        },
+        {
+            "id": 5,
+            "title": "What our Client say",
+            "text1" : "While the results delivered by them are undoubtedly effective, it's essential to mention that the service leans towards the higher end in terms of cost. The quality comes at a price, and while it might be a bit on the expensive side, the peace of mind and thorough pest eradication make it a justifiable expense for those prioritizing top-notch service over budget constraints.",
+            
+            "img" : "/assets/img/bg/testimonial.jpg"
+        },
+        {
+            "id": 6,
+            "title": "What our Client say",
+            "text1" : " Jezben Pest Control sets the gold standard in the industry. Their meticulous approach and attention to detail are evident from the initial consultation to the completion of the job. The team's expertise is matched only by their professionalism – prompt, courteous, and highly effective. Jezben's commitment to delivering exceptional results is unwavering. As a satisfied customer, I confidently recommend their services to anyone in need of reliable and professional pest control solutions.",
+            
+            "img" : "/assets/img/bg/testimonial.jpg"
+        }
+        
+        
+    ]
+}
