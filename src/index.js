@@ -15,8 +15,11 @@ root.render(
     {/* <React.StrictMode> */}
     <App />
     {/* </React.StrictMode> */}
+    
   </BrowserRouter>
 );
+<script src="https://dashboard.chatfuel.com/integration/landing-wa-widget.js" async defer data-prefilled="Hey" data-welcome="Hello, Welcome To Jezben Pest Control Service" data-phone="971507107126"></script>
+
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))

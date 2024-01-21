@@ -34,9 +34,11 @@ const FooterThree = () => {
                       <h3 className="tp-footer__widget-title text-white">Quick Links</h3>
                       <ul>
                         <li><a href="/">Home</a></li>
-                        <li><a href="/">About Us</a></li>
+                        <li><a href="/about">About Us</a></li>
                         <li><a href="/">Gallery</a></li>
-                        <li><a href="/">Contact Us</a></li>
+                        <li><a href="/contact">Contact Us</a></li>
+                        <li><a href="/cleaning-service">Cleaning Service</a></li>
+
                   
                       </ul>
                     </div>
@@ -45,13 +47,19 @@ const FooterThree = () => {
                     <div className="tp-footer__widget tp-footer__2 pb-30">
                       <h3 className="tp-footer__widget-title text-white">Our Service</h3>
                       <ul>
-                        <li><a href="/">Mosquito Control</a></li>
-                        <li><a href="/">Cockroach Control</a></li>
-                        <li><a href="/">Ants Control</a></li>
-                        <li><a href="/">Bedbugs Control</a></li>
+                        <li><a href="/mosquito-control">Mosquito Control</a></li>
+                        <li><a href="/cockroach-control">Cockroach Control</a></li>
+                        <li><a href="/ants-control">Ants Control</a></li>
+                        <li><a href="/bug-control">Bedbugs Control</a></li>
+                        <li><a href="/ter-control">Termite Control</a></li>
+                        <li><a href="/ro-control">Rodent Control</a></li>
+                        <li><a href="/sna-control">Snake Control</a></li>
+                        <li><a href="/type-control">Types Of Files Control</a></li>
+
                       </ul>
                     </div>
                   </div>
+         
          
                   <div className="col-lg-4 col-md-6">
                     <div className="tp-footer__widget tp-footer__2  pb-30">
@@ -59,9 +67,11 @@ const FooterThree = () => {
                       <ul>
                         <li><a href="/">27 Division St, Dubai UAE</a></li>
                         <li><a href="tel:+88015569569365">(+971)52462545632</a></li>
-                        <li><a href="mailto:support@example.com">info@jeban.com</a></li>
-                        <li><span> Office Hours: 9AM - 4PM</span></li>
-                        <li><span> Friday - Wekend Day</span></li>
+                        <li><a href="mailto:info@jezben.com">info@jezben.com</a></li>
+                        <li><a href="mailto:sales@jezben.com">sales@jezben.com</a></li>
+                        <li><a href="mailto:accounts@jezben.com">accounts@jezben.com</a></li>
+
+                        <li><span> Monday - Saturday</span></li>
                       </ul>
                     </div>
                   </div>

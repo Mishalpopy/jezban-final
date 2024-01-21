@@ -43,7 +43,7 @@ const Menus = () => {
         </ul>
       </li>
       <li>
-        <Link to="/about">CLEANING SERVICE</Link>
+        <Link to="/cleaning-service">CLEANING SERVICE</Link>
       </li>
       <li>
         <Link to="/">Gallery</Link>

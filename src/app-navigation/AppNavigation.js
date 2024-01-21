@@ -25,6 +25,7 @@ import TerControl from '../components/Pages/TermiteControl/TerControl';
 import RoControl from '../components/Pages/RodentControl/RoControl';
 import TypesControl from '../components/Pages/types/TerControl';
 import SnaControl from '../components/Pages/sna/SnaControl';
+import CleaningSer from '../components/Pages/CleaningControl/CleaningSer';
 
 const AppNavigation = () => {
   return (
@@ -52,7 +53,7 @@ const AppNavigation = () => {
         <Route path="/ro-control" element={<RoControl />} />
         <Route path="/type-control" element={<TypesControl />} />
         <Route path="/sna-control" element={<SnaControl />} />
-
+        <Route path="/cleaning-service" element={<CleaningSer />} />
 
       </Routes>
       <BackToTop/>
