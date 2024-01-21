@@ -66,19 +66,9 @@ const Brands = ({ style_2 = false }) => {
       <div className={style_2 ? "tp-brand-area pb-140" : "brand"}>
         <div className="container">
           <div className="tp-brand-area">
-            <Slider
-              {...settings}
-              className="tp-brand-slider tp-brand-silder-actiive tp-brand-border pt-60 pb-60"
-            >
-              {brands?.brands.map((brand) => (
-                <div
-                  key={brand.id}
-                  className="tp-brand-item text-center scale-1"
-                >
-                  <img src={brand.img} alt="" />
-                </div>
-              ))}
-            </Slider>
+          <p style={{ color: "black"}}>“The service to others is the
+rent you pay, for the room you
+have here on earth”</p>
           </div>
         </div>
       </div>

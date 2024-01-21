@@ -15,16 +15,18 @@ const TopCtaArea = () => {
                   Experience Excellence in Pest Control with Jezben
                   </span>
                   <h2 className="tp-section-title">
-                  Discover Jezben Pest Control's expertise. View our work gallery to witness our effective solutions for pest-free, worry-free living.
+                  “The service to others is the
+rent you pay, for the room you
+have here on earth”
                   </h2>
                 </div>
               </div>
               <div className="col-lg-3 d-flex justify-content-lg-end">
-                <Link to="/team">
+                <Link to="/about">
                   <div className="tp-theme-btn d-flex align-items-center">
                     <div className="tp-btn-inner">
-                      <p className="mb-0">See Work</p>
-                      <b>See our Gallery</b>
+                      <p className="mb-0">Jezben</p>
+                      <b>Know More</b>
                       <span className="d-inline-block">
                         <svg
                           width="46"
