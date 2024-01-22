@@ -19,7 +19,7 @@ const Home = () => {
       <TopAbout />
       <TopCtaArea />
       <ServicesHome />
-      
+
       <Feature />
       <Testimonial />
       <FullScreenBtn />
