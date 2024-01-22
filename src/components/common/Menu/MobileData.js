@@ -24,13 +24,18 @@ const menu_data = [
       { title: 'Cockroach Control', link: '/cockroach-control' },
       { title: 'Ants Control', link: '/ants-control' },
       { title: 'Bedbugs Control', link: '/bug-control' },
+      { title: 'TERMITE CONTROL', link: '/ter-control' },
+      { title: 'RODENT CONTROL ', link: '/ro-control' },
+      { title: 'SNAKE CONTROL', link: '/sna-control' },
+      { title: 'TYPES OF FLIES & CONTROL', link: '/type-control' },
+
     ]
   },
   {
     id: 4,
     hasDropdown: false,
-    title: 'Gallery',
-    link: '/',
+    title: 'Cleaning Services',
+    link: '/cleaning-service',
     submenus: [
       { title: 'Portfolio', link: '/portfolio' },
       { title: 'Portfolio Details', link: '/portfolio-details' },

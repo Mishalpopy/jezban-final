@@ -18,7 +18,7 @@ const MobileMenu = () => {
       <li className="has-dropdown">
         <Link to="/">Services</Link>
         <ul className="submenu">
-          <li>
+        <li>
             <Link to="/mosquito-control">Mosquito Control</Link>
           </li>
           <li>
@@ -30,12 +30,24 @@ const MobileMenu = () => {
           <li>
             <Link to="/bug-control">Bedbugs Control</Link>
           </li>
+          <li>
+            <Link to="/ter-control">TERMITE CONTROL</Link>
+          </li>
+          <li>
+            <Link to="/ro-control">RODENT CONTROL</Link>
+          </li>
+          <li>
+            <Link to="/sna-control">SNAKE CONTROL</Link>
+          </li>
+          <li>
+            <Link to="/type-control">TYPES OF FLIES & CONTROL</Link>
+          </li>
     
          
         </ul>
       </li>
       <li>
-        <Link to="/">Gallery</Link>
+        <Link to="/cleaning-service">Cleaning Services</Link>
       </li>
       <li>
         <Link to="/contact">Contact us</Link>
