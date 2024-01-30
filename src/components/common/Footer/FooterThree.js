@@ -54,7 +54,7 @@ const FooterThree = () => {
                         <li><a href="/ter-control">Termite Control</a></li>
                         <li><a href="/ro-control">Rodent Control</a></li>
                         <li><a href="/sna-control">Snake Control</a></li>
-                        <li><a href="/type-control">Types Of Files Control</a></li>
+                        <li><a href="/type-control">Types Of Flies  Control</a></li>
 
                       </ul>
                     </div>
@@ -68,8 +68,7 @@ const FooterThree = () => {
                         <li><a href="/">27 Division St, Dubai UAE</a></li>
                         <li><a href="tel:+88015569569365">(+971)52462545632</a></li>
                         <li><a href="mailto:info@jezben.com">info@jezben.com</a></li>
-                        <li><a href="mailto:sales@jezben.com">sales@jezben.com</a></li>
-                        <li><a href="mailto:accounts@jezben.com">accounts@jezben.com</a></li>
+                       
 
                         <li><span> Monday - Saturday</span></li>
                       </ul>

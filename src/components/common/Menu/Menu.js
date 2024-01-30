@@ -10,7 +10,12 @@ const Menu = ({ header_style_2 }) => {
   const { sticky } = useSticky();
   return (
     <>
-      <header>
+    <div className="connect-header">
+    <p>Connect With Us +971507107126 – 24X7</p>
+    </div>
+
+    <header>
+  
         <div
           id="header-sticky"
           className={`header__area ${

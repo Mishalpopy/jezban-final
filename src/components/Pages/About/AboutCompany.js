@@ -120,7 +120,7 @@ const AboutCompany = () => {
                   <img src="assets/img/about/dot.jpg" alt="" />
                 </div>
                 <div className="about-info-box d-flex flex-column justify-content-center text-center">
-                  <h3 className="box-title">5</h3>
+                  <h3 className="box-title">10</h3>
                   <h4 className="box-subtitle">
                     Year of <br />
                     Experience

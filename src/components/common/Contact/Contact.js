@@ -96,8 +96,7 @@ const Contact = () => {
                     Opening Hours
                   </h3>
                   <p>
-                    Office Hours: 8AM - 11PM <br />
-                    Friday - Wekend Day
+                    24X7
                   </p>
                 </div>
                 <div className="tp-ct-info pt-60 pl-50 pb-50 black-bg-2">

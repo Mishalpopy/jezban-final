@@ -18,8 +18,11 @@ root.render(
     
   </BrowserRouter>
 );
+<div>
 <script src="https://dashboard.chatfuel.com/integration/landing-wa-widget.js" async defer data-prefilled="Hey" data-welcome="Hello, Welcome To Jezben Pest Control Service" data-phone="971507107126"></script>
-
+<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-2f63e15a-9fa7-49bd-825f-81c5665f2fbd" data-elfsight-app-lazy></div>
+</div>
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
